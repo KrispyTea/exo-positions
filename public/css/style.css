@@ -75,12 +75,12 @@ section:nth-child(5)>h2:nth-of-type(1) {
   background-color: green;
   margin: 0;
   top: 0;
+  top: 50px;
+  left: 50%;
 }
 
 #position {
   position: relative;
-  top: 50px;
-  left: 50%;
 }
 
 section:nth-child(5)>h2:nth-of-type(1) {
